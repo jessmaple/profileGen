@@ -190,6 +190,8 @@ function generateHTML(data) {
                                 <div class="col">
                                     <div class="card">
                                         <h1>${data.name}</h1>
+                                        <h2>${data.company}</h2>
+                                        <h2>${data.location}</h2>
                                     </div>
                                    
                                 </div>
@@ -204,7 +206,7 @@ function generateHTML(data) {
            <div class="main">
                <div class="row">
                    <div class="col">
-                       hello
+                       ${data.bio}
                    </div>
                </div>
            </div>
