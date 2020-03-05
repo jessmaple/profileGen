@@ -1,22 +1,24 @@
-# profileGen 
+# profileGen
 
-Description
----
-*profileGen* is a node.js app that generates a Github profile based on user-inputed data. profileGen also generates a PDF of the information generated. 
+## Description
 
-Installation 
----
+_profileGen_ is a node.js app that generates a Github profile based on user-inputed data. profileGen also generates a PDF of the information generated.
+
+## Installation
+
 - Clone the repository to your machine.
 - Install packages.
-- Type 'node index.js' 
+- Type 'node index.js'
 - Answer prompted questions.
 
-Technologies Utilized 
----
+      	![gif of app](profilegen.gif)
+
+## Technologies Utilized
+
 HTML5, CSS3, JavaScript, Node.js, and Inquirer.js
 
-License 
----
+## License
+
 Copyright 2020, Jessica Maple
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
