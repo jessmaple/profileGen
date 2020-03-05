@@ -11,7 +11,7 @@ _profileGen_ is a node.js app that generates a Github profile based on user-inpu
 - Type 'node index.js'
 - Answer prompted questions.
 
-      	![gif of app](https://media.giphy.com/media/Y47qo8uEWktk8BDerK/giphy.gif)
+[gif of app](https://media.giphy.com/media/Y47qo8uEWktk8BDerK/giphy.gif)
 
 ## Technologies Utilized
 
